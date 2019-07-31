@@ -16,8 +16,8 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ils m'ont raconté ce qui était arrivé. Dieu vous protège, monsieur. Je vous dois la vie."</DefaultText>
-      <FemaleText>"Ils m'ont raconté ce qui était arrivé. Dieu vous protège, madame. Je vous dois la vie."</FemaleText>
+      <DefaultText>"Ils m'ont raconté ce qui était arrivé. Les dieux vous protègent, monsieur. Je vous dois la vie."</DefaultText>
+      <FemaleText>"Ils m'ont raconté ce qui était arrivé. Les dieux vous protègent, madame. Je vous dois la vie."</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
